@@ -20,7 +20,7 @@ class Main {
 
           System.out.println("\n What flavor would you like for this scoop?");//For each scoop you choose, what flavor would you like each one to be?
           scan.next();  
-      
+       
         count ++;
       
         }
